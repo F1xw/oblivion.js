@@ -3,7 +3,7 @@ jQuery extension pack
 ## Installation:
 _script:src:_
 ```
-<script src=""></script>
+<script src="https://cdn.jsdelivr.net/gh/F1xw/oblivion.js/oblivion.js"></script>
 ```
 ## Overview:
 Here's a list of extensions included in oblivion.js
