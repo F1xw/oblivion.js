@@ -55,3 +55,9 @@ $.fn.getContent = function(args) {
         $(object).html(data);
     });
 };
+
+$(document).ready(function () {
+    $('[link]').click(function () {
+        window.location.assign($(this).attr('link'));
+    });
+});
